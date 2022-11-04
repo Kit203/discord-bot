@@ -43,6 +43,6 @@ Not deployed
 Not deployed
 
 # Citations/Credits
-[freeCodeCamp.org](https://www.youtube.com/watch?v=SPTfmiYiuok): To help put the skeleton code in place in Python
-[Shadow]: Reviewed my code for errors
+1) [freeCodeCamp.org on YT](https://www.youtube.com/watch?v=SPTfmiYiuok): To help put the skeleton code in place in Python
+2) [Shadow]: Reviewed my code for errors
 
