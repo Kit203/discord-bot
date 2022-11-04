@@ -1,31 +1,48 @@
 # User Stories
+No User stories. 
 
 # Languages Used
-Html,
+- HTML [HyperText Markup Language] []
+- CSS [Cascading Style Sheets] []
+- Python [X]
+- Javascript []
+
 
 # Frameworks, Libraries, and Programs Used
+## Programs
+- [Font Awesome](https://fontawesome.com/): used to add icons to make the pages look astheticly pleasing
+- [Github](https://github.com/): Used to store project code.
+- [Replit](https://replit.com/): Used to run code. 
+## Libraries
+
+## Frameworks
 
 # Features
-Responsive on:
-Interactive Elements: 
+## Responsive on:
+## Interactive Elements: 
 
 # Further Additions
-See a word, censor, and delete the word. 
-Fetches activity from other websites and posts it in a designated channel. 
-Leveling system: Reads messages sent on social media platform and awards levels based off activity. Creates in server currency. 
-Reaction Commands: Allows users to set roles to themselves via reaction commands and agree to server rules with those commands. 
+1) See a word, censor, and delete the word. 
+2) Fetches activity from other websites and posts it in a designated channel. 
+3) Leveling system: Reads messages sent on social media platform and awards levels based off activity. Creates in server currency. 
+4) Reaction Commands: Allows users to set roles to themselves via reaction commands and agree to server rules with those commands. 
 
 # Testing User Stories from User Experience Section
+No testing has taken place yet.
 
 # Further Testing
+No testing has taken place yet.
 
 # Bugs
+No known bugs.
 
 # Deployment
+Not deployed
 
 # Local Deployment
+Not deployed
 
 # Citations/Credits
-Made on a different platform following the following tutorial: https://www.youtube.com/watch?v=SPTfmiYiuok
+[freeCodeCamp.org](https://www.youtube.com/watch?v=SPTfmiYiuok): To help put the skeleton code in place in Python
+[Shadow]: Reviewed my code for errors
 
-Basically the same thing, functions on a rudimentary level. Nothing new. Would like to add more to it. So a skelenton of what would like to be added is on there. This was worked on with another human. [Will link their github if they make one] 
